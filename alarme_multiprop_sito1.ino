@@ -1,3 +1,5 @@
+//Sketch by Vinícius Custódio Chelli
+
 int led1 = 5; 
 int led2 = 6; 
 int led3 = 7; 
